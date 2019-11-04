@@ -5,3 +5,4 @@ Mitt äventyr utspelar sig it ett övergivet hus som man är fast i och ens enda
 
 Länk: https://github.com/Fluffinator97/Lab1
 
+Demo: https://fluffinator97.github.io/Lab1/
